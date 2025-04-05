@@ -33,19 +33,3 @@
 <!-- Welcome words -->
 <h1 style="color: #FFA500;">Welcome to mitbg000's GitHub ! 🍀</h1>
 
-
-
-
-<!-- World Peaceful words -->
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+World+Remains+Peaceful+Forever+!)
-
-
-
-
-<!-- Moon Emoji -->
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=200&theme=ray&rotate=148)](https://moon-svg.minung.dev)
-
-
-
-
-
